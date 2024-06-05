@@ -13,5 +13,15 @@ namespace MakeMeUpzz.View
         {
 
         }
+
+        protected void RadioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void ButtonRegister_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

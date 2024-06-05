@@ -9,6 +9,16 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <asp:Label ID="LabelUsername" runat="server" Text="Username: "></asp:Label><asp:TextBox ID="TextBoxUsername" runat="server"></asp:TextBox>
+             <asp:Label ID="LabelPassword" runat="server" Text="Password: "></asp:Label><asp:TextBox ID="TextBoxPassword" runat="server"></asp:TextBox>
+            <asp:Button ID="ButtonLogin" runat="server" Text="Submit" />
+        </div>
+        <div>
+            <asp:CheckBox ID="CheckBoxRememberMe" runat="server" Text="Remember Me"/>
+        </div>
+        <asp:Label ID="LabelError" runat="server" Text=""></asp:Label>
+        <div>
+            <asp:HyperLink ID="HyperLink1" runat="server">Register an Account?</asp:HyperLink>
         </div>
     </form>
 </body>
