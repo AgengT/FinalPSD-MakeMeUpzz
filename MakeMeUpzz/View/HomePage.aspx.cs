@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MakeMeUpzz.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -7,31 +8,32 @@ using System.Web.UI.WebControls;
 
 namespace MakeMeUpzz.View
 {
-    public partial class Homepage : System.Web.UI.Page
+    public partial class Homepage1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (Session["user"] == null && Request.Cookies["user_cookie"] == null)
+            {
+                Response.Redirect("~/View/LoginPage.aspx");
+            }
 
-        }
+            if (Request.Cookies["user_cookie"] != null)
+            {
+                Database1Entities db = new Database1Entities();
+                var userId = Request.Cookies["user_cookie"].Value;
+                User user = db.Users.Where(U => U.Username == userId).FirstOrDefault();
 
-        protected void OrderMakeupClick(object sender, EventArgs e)
-        {
-            Response.Redirect("~/View/OrderMakeupPage.aspx");
-        }
 
-        protected void HistoryClick(object sender, EventArgs e)
-        {
-            Response.Redirect("~/View/HistoryPage.aspx");
-        }
+                if (user == null)
+                {
+                    Response.Redirect("~/View/LoginPage.aspx");
+                }
 
-        protected void ProfileClick(object sender, EventArgs e)
-        {
-            Response.Redirect("~/View/ProfilePage.aspx");
-        }
+                Session["user"] = user;
+            }
 
-        protected void LogoutClick(object sender, EventArgs e)
-        {
-            Response.Redirect("~/View/LogoutPage.aspx");
+            User currUser = (User)Session["user"];
+            
         }
     }
 }

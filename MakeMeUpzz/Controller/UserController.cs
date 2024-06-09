@@ -7,5 +7,6 @@ namespace MakeMeUpzz.Controller
 {
     public class UserController
     {
+
     }
 }

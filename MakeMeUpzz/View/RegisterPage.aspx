@@ -11,17 +11,23 @@
      <div>
        <asp:Label ID="LabelUsername" runat="server" Text="Username: "></asp:Label>
          <asp:TextBox ID="TextBoxUsername" runat="server"></asp:TextBox>
+         <asp:Label ID="LabelErrorUsername" runat="server" Text=" "></asp:Label>
     </div>
 
     <div>
-        <asp:Label ID="Label1" runat="server" Text="Email: "></asp:Label>
+        <asp:Label ID="LabelEmail" runat="server" Text="Email: "></asp:Label>
         <asp:TextBox ID="TextBoxEmail" runat="server"></asp:TextBox>
+        <asp:Label ID="LabelErrorEmail" runat="server" Text=" "></asp:Label>
+
     </div>
 
     <div>
         <asp:Label ID="LabelGender" runat="server" Text="Gender: "></asp:Label>
-        <asp:RadioButton ID="RadioButtonMale" runat="server" OnCheckedChanged="RadioButtonMale_CheckedChanged" Text="Male"/>
-        <asp:RadioButton ID="RadioButtonFemale" runat="server" OnCheckedChanged="RadioButtonFemale_CheckedChanged" Text="Female"/>
+        <asp:RadioButtonList ID="RadioButtonGender" runat="server">
+            <asp:ListItem Text="Male" Value="Male"></asp:ListItem>
+            <asp:ListItem Text="Female" Value="Female"></asp:ListItem>
+        </asp:RadioButtonList>
+        <asp:Label ID="LabelErrorGender" runat="server" Text=" "></asp:Label>
     </div>
    
     <div>
@@ -31,10 +37,13 @@
     <div>
         <asp:Label ID="LabelConfirmPassword" runat="server" Text="Confirm Password: "></asp:Label>
         <asp:TextBox ID="TextBoxConfirmPassword" runat="server"></asp:TextBox>
+        <asp:Label ID="LabelErrorConfirmPassword" runat="server" Text=" "></asp:Label>
     </div>
     <div>
         <asp:Label ID="Label2" runat="server" Text="Date Of Birth:"></asp:Label>
         <asp:Calendar ID="CalendarRegisterDOB" runat="server"></asp:Calendar>
+        <asp:Label ID="LabelErrorDOB" runat="server" Text=" "></asp:Label>
+
     </div>
      <div>
         <asp:Button ID="ButtonRegister" runat="server" Text="Register" OnClick="ButtonRegister_Click" />

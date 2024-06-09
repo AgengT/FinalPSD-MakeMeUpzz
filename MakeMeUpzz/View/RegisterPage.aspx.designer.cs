@@ -42,13 +42,22 @@ namespace MakeMeUpzz.View
         protected global::System.Web.UI.WebControls.TextBox TextBoxUsername;
 
         /// <summary>
-        /// Label1 control.
+        /// LabelErrorUsername control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label Label1;
+        protected global::System.Web.UI.WebControls.Label LabelErrorUsername;
+
+        /// <summary>
+        /// LabelEmail control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelEmail;
 
         /// <summary>
         /// TextBoxEmail control.
@@ -60,6 +69,15 @@ namespace MakeMeUpzz.View
         protected global::System.Web.UI.WebControls.TextBox TextBoxEmail;
 
         /// <summary>
+        /// LabelErrorEmail control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelErrorEmail;
+
+        /// <summary>
         /// LabelGender control.
         /// </summary>
         /// <remarks>
@@ -69,22 +87,22 @@ namespace MakeMeUpzz.View
         protected global::System.Web.UI.WebControls.Label LabelGender;
 
         /// <summary>
-        /// RadioButtonMale control.
+        /// RadioButtonGender control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButton RadioButtonMale;
+        protected global::System.Web.UI.WebControls.RadioButtonList RadioButtonGender;
 
         /// <summary>
-        /// RadioButtonFemale control.
+        /// LabelErrorGender control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButton RadioButtonFemale;
+        protected global::System.Web.UI.WebControls.Label LabelErrorGender;
 
         /// <summary>
         /// LabelRegisterPassword control.
@@ -123,6 +141,15 @@ namespace MakeMeUpzz.View
         protected global::System.Web.UI.WebControls.TextBox TextBoxConfirmPassword;
 
         /// <summary>
+        /// LabelErrorConfirmPassword control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelErrorConfirmPassword;
+
+        /// <summary>
         /// Label2 control.
         /// </summary>
         /// <remarks>
@@ -139,6 +166,15 @@ namespace MakeMeUpzz.View
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Calendar CalendarRegisterDOB;
+
+        /// <summary>
+        /// LabelErrorDOB control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelErrorDOB;
 
         /// <summary>
         /// ButtonRegister control.

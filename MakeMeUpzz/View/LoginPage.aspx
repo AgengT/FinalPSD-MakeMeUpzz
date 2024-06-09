@@ -18,7 +18,7 @@
         </div>
         <asp:Label ID="LabelError" runat="server" Text=""></asp:Label>
         <div>
-            <asp:HyperLink ID="HyperLink1" runat="server">Register an Account?</asp:HyperLink>
+            <asp:Button ID="ButtonRegister" runat="server" Text="Register an Account?" OnClick="ButtonRegister_Click" /> 
         </div>
     </form>
 </body>
