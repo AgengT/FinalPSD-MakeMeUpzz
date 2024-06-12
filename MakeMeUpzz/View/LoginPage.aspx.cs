@@ -15,8 +15,8 @@ namespace MakeMeUpzz.View
             Database1Entities db = new Database1Entities();
 
             //Authentication or Autentikasi
-            String username = LabelUsername.Text;
-            String password = LabelPassword.Text;
+            String username = TextBoxUsername.Text;
+            String password = TextBoxPassword.Text;
             bool isRememberMe = CheckBoxRememberMe.Checked;
 
             User user = db.Users.Where(u => u.Username == username && u.UserPassword == password).FirstOrDefault();

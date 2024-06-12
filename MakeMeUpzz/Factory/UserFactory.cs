@@ -17,7 +17,8 @@ namespace MakeMeUpzz.Factory
                 UserEmail = email,
                 UserGender = gender,
                 UserPassword = password,
-                UserDOB = DOB
+                UserDOB = DOB,
+                UserRole = "Customer"
             };
             return newUser;
         }

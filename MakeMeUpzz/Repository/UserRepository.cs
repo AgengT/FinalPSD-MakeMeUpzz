@@ -14,15 +14,12 @@ namespace MakeMeUpzz.Repository
         public static void newUser(User user)
         {
             db.Users.Add(user);
-            try
-            {
-                db.SaveChanges();
+            
+            
+            db.SaveChanges();
 
-            }
-            catch (DbEntityValidationException e)
-            {
-                Console.WriteLine(e);
-            }
+            
+            
 
             
         }

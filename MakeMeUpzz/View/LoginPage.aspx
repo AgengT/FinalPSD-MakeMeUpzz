@@ -9,8 +9,10 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="LabelUsername" runat="server" Text="Username: "></asp:Label><asp:TextBox ID="TextBoxUsername" runat="server"></asp:TextBox>
-             <asp:Label ID="LabelPassword" runat="server" Text="Password: "></asp:Label><asp:TextBox ID="TextBoxPassword" runat="server"></asp:TextBox>
+            <asp:Label ID="LabelUsername" runat="server" Text="Username: "></asp:Label>
+            <asp:TextBox ID="TextBoxUsername" runat="server"></asp:TextBox>
+             <asp:Label ID="LabelPassword" runat="server" Text="Password: "></asp:Label>
+            <asp:TextBox ID="TextBoxPassword" runat="server"></asp:TextBox>
             <asp:Button ID="ButtonLogin" runat="server" Text="Submit" OnClick="ButtonLogin_Click" />
         </div>
         <div>

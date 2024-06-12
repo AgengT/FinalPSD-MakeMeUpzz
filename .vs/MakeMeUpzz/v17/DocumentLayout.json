@@ -3,8 +3,27 @@
   "WorkspaceRootPath": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B__KULIAH_SMT4_PSD_LAB_FINALPSD_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,24 +34,12 @@
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeupbrandpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeupbrandpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +52,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\controller\\makeuptypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -198,45 +201,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MakeupHandler.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupHandler.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\MakeupHandler.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupHandler.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Handler\\MakeupHandler.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:39:47.524Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\UserRepository.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:18:21.167Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MakeupRepository.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupRepository.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\MakeupRepository.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupRepository.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Repository\\MakeupRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:06:51.245Z",
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B__KULIAH_SMT4_PSD_LAB_FINALPSD_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-12T16:37:56.823Z",
               "EditorCaption": ""
             },
             {
@@ -254,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "InsertMakeupBrandPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx.cs",
@@ -267,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "UserHandler.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\UserHandler.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\UserHandler.cs",
@@ -280,72 +254,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "LoginPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\LoginPage.aspx",
               "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx",
               "RelativeToolTip": "MakeMeUpzz\\View\\LoginPage.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2024-06-12T14:25:59.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\LoginPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\LoginPage.aspx.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:26:33.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MakeupFactory.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupFactory.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Factory\\MakeupFactory.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupFactory.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Factory\\MakeupFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:46:40.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "RegisterPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\RegisterPage.aspx.cs",
               "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx.cs",
               "RelativeToolTip": "MakeMeUpzz\\View\\RegisterPage.aspx.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAcwCAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowCAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T15:26:05.629Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\UserController.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Controller\\UserController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAQwD8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:20:44.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "UserFactory.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\UserFactory.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Factory\\UserFactory.cs",
@@ -358,7 +293,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\UserRepository.cs",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs*",
+              "RelativeToolTip": "MakeMeUpzz\\Repository\\UserRepository.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:18:21.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MakeupRepository.cs",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupRepository.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\MakeupRepository.cs",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupRepository.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Repository\\MakeupRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:06:51.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MakeupHandler.cs",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupHandler.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\MakeupHandler.cs",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupHandler.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Handler\\MakeupHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:39:47.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\LoginPage.aspx.cs",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx.cs",
+              "RelativeToolTip": "MakeMeUpzz\\View\\LoginPage.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T14:26:33.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MakeupFactory.cs",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupFactory.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Factory\\MakeupFactory.cs",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupFactory.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Factory\\MakeupFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:46:40.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\UserController.cs",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Controller\\UserController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwD8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:20:44.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "MakeupTypeController.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupTypeController.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\MakeupTypeController.cs",
@@ -371,7 +384,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "InsertMakeupTypePage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupTypePage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupTypePage.aspx.cs",
@@ -384,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "InsertMakeupTypePage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupTypePage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupTypePage.aspx",
@@ -397,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MakeupController.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupController.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\MakeupController.cs",
@@ -410,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "InsertMakeupBrandPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx",
@@ -423,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "MakeupTypeRepository.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupTypeRepository.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\MakeupTypeRepository.cs",
@@ -436,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MakeupBrandHandler.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupBrandHandler.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\MakeupBrandHandler.cs",
@@ -449,7 +462,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "MakeupBrandController.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupBrandController.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\MakeupBrandController.cs",
@@ -462,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "MakeupTypeHandler.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupTypeHandler.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\MakeupTypeHandler.cs",
@@ -475,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "MakeupBrandFactory.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupBrandFactory.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Factory\\MakeupBrandFactory.cs",
@@ -488,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Homepage.aspx.designer.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx.designer.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Homepage.aspx.designer.cs",
@@ -501,7 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "UpdateMakeupBrandPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
@@ -514,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Homepage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Homepage.aspx",
@@ -527,7 +540,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Homepage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Homepage.aspx.cs",
@@ -540,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ManageMakeupPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ManageMakeupPage.aspx.cs",
@@ -553,7 +566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ManageMakeupPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ManageMakeupPage.aspx",
@@ -566,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "HistoryPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HistoryPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\HistoryPage.aspx",
@@ -579,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "InsertMakeupPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupPage.aspx",
@@ -592,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "HandleTransactionPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HandleTransactionPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\HandleTransactionPage.aspx",
@@ -605,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "HistoryPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HistoryPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\HistoryPage.aspx.cs",
@@ -618,7 +631,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "HandleTransactionPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HandleTransactionPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\HandleTransactionPage.aspx.cs",
@@ -631,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "ViewTransactionReportPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ViewTransactionReportPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ViewTransactionReportPage.aspx",
@@ -644,7 +657,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "InsertMakeupPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
@@ -657,7 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "UpdateMakeupTypePage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx.cs",
@@ -670,7 +683,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "UpdateMakeupPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupPage.aspx.cs",
@@ -683,7 +696,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "UpdateMakeupBrandPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx.cs",
@@ -696,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "ViewTransactionReportPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ViewTransactionReportPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ViewTransactionReportPage.aspx.cs",
@@ -709,7 +722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "UpdateMakeupTypePage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx",
@@ -722,7 +735,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "UpdateMakeupPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupPage.aspx",
@@ -735,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "ProfilePage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
@@ -748,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "ProfilePage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx",
@@ -761,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "OrderMakeupPage.aspx.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\OrderMakeupPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\OrderMakeupPage.aspx.cs",
@@ -774,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "Navbar.Master.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Navbar.Master.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Navbar.Master.cs",
@@ -787,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "OrderMakeupPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\OrderMakeupPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\OrderMakeupPage.aspx",
@@ -800,7 +813,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "MakeupBrandRepository.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupBrandRepository.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\MakeupBrandRepository.cs",
