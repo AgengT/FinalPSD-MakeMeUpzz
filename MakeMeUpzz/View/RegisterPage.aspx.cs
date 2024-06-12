@@ -31,6 +31,7 @@ namespace MakeMeUpzz.View
 
             UserController.Register(username, email, gender, password, DOB);
 
+            //validasi yang dibuat calvin
             //try
             //{
             //    User user = UserController.Register(username, email, gender, password, confirmPassword, DOB);
