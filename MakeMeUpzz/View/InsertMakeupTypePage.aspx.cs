@@ -1,5 +1,7 @@
-﻿using System;
+﻿using MakeMeUpzz.Controller;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -12,6 +14,17 @@ namespace MakeMeUpzz.View
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void InsertMakeup_Click(object sender, EventArgs e)
+        {
+            string name = MakeupTypeName.Text;
+            MakeupTypeController.InsertMakeupType(name);
+        }
+
+        protected void ManageMakeup_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/ManageMakeupPage.aspx");
         }
     }
 }

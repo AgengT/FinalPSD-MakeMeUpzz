@@ -1,4 +1,5 @@
-﻿using MakeMeUpzz.Model;
+﻿using MakeMeUpzz.Controller;
+using MakeMeUpzz.Model;
 using MakeMeUpzz.Repository;
 using System;
 using System.Collections.Generic;
@@ -45,40 +46,44 @@ namespace MakeMeUpzz.View
             String gender = RadioButtonGender.SelectedValue;
             String password = TextBoxRegisterPassword.Text;
             String confirmPassword = TextBoxConfirmPassword.Text;
-            if(confirmPassword != password)
+            DateTime DOB = CalendarRegisterDOB.SelectedDate;
+
+            try
             {
-                LabelErrorConfirmPassword.Text = "Input is invalid";
-                LabelErrorConfirmPassword.Visible = true;
+                User user = UserController.Register(username, email, gender, password, confirmPassword, DOB);
+            }
+            catch (Exception ex)
+            {
+                List<string> errors = ex.Message.Split(',').ToList();
+
+                foreach (string error in errors)
+                {
+                    string msg = error.Substring(error.IndexOf("|") + 1);
+                    string code = error.Substring(0, error.IndexOf("|"));
+                    switch (code)
+                    {
+                        case "confirm":
+                            LabelErrorConfirmPassword.Text += msg;
+                            break;
+                        case "email":
+                            LabelErrorEmail.Text = msg;
+                            break;
+                        case "username":
+                            LabelErrorUsername.Text = msg;
+                            break;
+                        case "gender":
+                            LabelErrorGender.Text = msg;
+                            break;
+                        case "DOB":
+                            LabelErrorDOB.Text = msg;
+                            break;
+                           
+                    }
+                }
+
             }
 
-            if(username.Count()<5 && username.Count()>15 && username == null)
-            {
-                LabelErrorUsername.Text = "Username Input is not valid must be between 5 and 15 characters";
-            }
 
-            //Kalo ada cara lain bisa ganti ya buat yang validasi email
-            /*CultureInfo ci;
-            ci = new CultureInfo(".com");
-            if (email.EndsWith(email,false,ci)){
-                LabelErrorEmail.Text = "Must end with .com";
-            }*/
-
-            if(gender == null)
-            {
-                LabelErrorGender.Text = "Choose a gender";
-            }
-
-            DateTime DOB = CalendarRegisterDOB.VisibleDate;
-
-            if(DOB == DateTime.MinValue)
-            {
-                LabelErrorDOB.Text = "Input your Date of Birth";
-                LabelErrorDOB.Visible = true;
-            }
-
-            User newUser = UserRepository.newUser(id, username, email, gender, password, DOB);
-            db.Users.Add(newUser);
-            db.SaveChanges();
         }
     }
 }

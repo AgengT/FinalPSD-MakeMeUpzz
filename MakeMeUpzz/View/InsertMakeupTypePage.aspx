@@ -9,7 +9,16 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <div>
+                <asp:Label ID="LabelName" runat="server" Text="MakeupTypeName"></asp:Label>
+                <asp:TextBox ID="MakeupTypeName" runat="server"></asp:TextBox>
+            </div>
+
+            <asp:Button ID="InsertMakeup" runat="server" Text="InsertMakeup" OnClick="InsertMakeup_Click" />
+            <asp:Button ID="ManageMakeup" runat="server" Text="ManageMakeupPage" OnClick="ManageMakeup_Click" />
+
         </div>
+
     </form>
 </body>
 </html>
