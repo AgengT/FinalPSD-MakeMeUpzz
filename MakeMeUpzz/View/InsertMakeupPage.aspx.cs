@@ -29,6 +29,47 @@ namespace MakeMeUpzz.View
             int brandId = Convert.ToInt32(MakeupBrandID.Text);
 
             MakeupController.InsertMakeup(name, price, weight, typeId, brandId);
+            Response.Redirect("~/View/ManageMakeupPage.aspx");
+        }
+
+        protected void ManageMakeup_Click3(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/ManageMakeupPage.aspx");
+        }
+
+        protected void OrderMakeupClick(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/OrderMakeupPage.aspx");
+        }
+
+        protected void HistoryClick(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/HistoryPage.aspx");
+        }
+
+        protected void ProfileClick(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/ProfilePage.aspx");
+        }
+
+        protected void LogoutClick(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/LoginPage.aspx");
+        }
+
+        protected void ManageMakeupClick2(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/ManageMakeupPage.aspx");
+        }
+
+        protected void OrderQueueClick(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/HandleTransactionPage.aspx");
+        }
+
+        protected void TransactionReportClick(object sender, EventArgs e)
+        {
+            Response.Redirect("~/View/ViewTransactionReportPage.aspx");
         }
     }
 }

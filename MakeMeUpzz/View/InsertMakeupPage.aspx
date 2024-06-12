@@ -9,6 +9,20 @@
 <body>
     <form id="form1" runat="server">
         <div>
+            <div id="Customer-Navbar">
+                <asp:Button ID="Button1" runat="server" Text="Order Makeup" OnClick="OrderMakeupClick" />
+                <asp:Button ID="Button2" runat="server" Text="History" OnClick="HistoryClick" />
+                <asp:Button ID="Button3" runat="server" Text="Profile" OnClick="ProfileClick" />
+                <asp:Button ID="Button4" runat="server" Text="Logout" OnClick="LogoutClick" />
+            </div>
+
+            <div id="Admin-Navbar">
+                <asp:Button ID="Button5" runat="server" Text="Manage Makeup" OnClick="ManageMakeupClick2" />
+                <asp:Button ID="Button6" runat="server" Text="Order Queue" OnClick="OrderQueueClick" />
+                <asp:Button ID="Button7" runat="server" Text="Profile" OnClick="ProfileClick" />
+                <asp:Button ID="Button8" runat="server" Text="Transaction Report" OnClick="TransactionReportClick" />
+                <asp:Button ID="Button9" runat="server" Text="Logout" OnClick="LogoutClick" />
+            </div>
             <div>
                 <asp:Label ID="LabelName" runat="server" Text="MakeupName"></asp:Label>
                 <asp:TextBox ID="MakeupName" runat="server"></asp:TextBox>
@@ -33,8 +47,8 @@
                 <asp:TextBox ID="MakeupBrandID" runat="server"></asp:TextBox>
             </div>
 
-                <asp:Button ID="InsertMakeup" runat="server" Text="InsertMakeup" OnClick="InsertMakeup_Click" />
-                <asp:Button ID="ManageMakeup" runat="server" Text="ManageMakeupPage" OnClick="ManageMakeup_Click" />
+            <asp:Button ID="InsertMakeup" runat="server" Text="InsertMakeup" OnClick="InsertMakeup_Click" />
+            <asp:Button ID="ManageMakeup" runat="server" Text="ManageMakeupPage" OnClick="ManageMakeup_Click3" />
 
         </div>
     </form>

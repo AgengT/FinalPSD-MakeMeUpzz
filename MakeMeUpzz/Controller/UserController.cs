@@ -1,4 +1,5 @@
-﻿using MakeMeUpzz.Model;
+﻿using MakeMeUpzz.Handler;
+using MakeMeUpzz.Model;
 using MakeMeUpzz.Repository;
 using System;
 using System.Collections.Generic;
@@ -9,22 +10,23 @@ namespace MakeMeUpzz.Controller
 {
     public class UserController
     {
-        public static User Register(string username, string email, string gender, string password, string confirmPassword, DateTime DOB)
+        public static void Register(string username, string email, string gender, string password, DateTime DOB)
         {
-            string errors = "";
-            if (confirmPassword != password)
-            {
-                errors += "confirm|Input is invalid,";
-            }
-            if (string.IsNullOrEmpty(gender))
-            {
-                errors += "gender|Input is invalid,";
-            }
-            if (errors != "")
-            {
-                throw new Exception(errors.Substring(0, errors.Length - 1));
-            }
-            return null;
+            //string errors = "";
+            //if (confirmPassword != password)
+            //{
+            //    errors += "confirm|Input is invalid,";
+            //}
+            //if (string.IsNullOrEmpty(gender))
+            //{
+            //    errors += "gender|Input is invalid,";
+            //}
+            //if (errors != "")
+            //{
+            //    throw new Exception(errors.Substring(0, errors.Length - 1));
+            //}
+
+
             //if (confirmPassword != password)
             //{
             //    LabelErrorConfirmPassword.Text = "Input is invalid";
@@ -56,9 +58,15 @@ namespace MakeMeUpzz.Controller
             //    LabelErrorDOB.Visible = true;
             //}
 
-            //User newUser = UserRepository.newUser(id, username, email, gender, password, DOB);
-            //db.Users.Add(newUser);
-            //db.SaveChanges();
+            //user newuser = userrepository.newuser(id, username, email, gender, password, dob);
+            //db.users.add(newuser);
+            //db.savechanges();
+            UserHandler.Register(username, email, gender, password, DOB);
+        }
+
+        public static List<User> GetAllUser()
+        {
+            return UserHandler.GetAllUser();
         }
     }
 }

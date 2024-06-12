@@ -10,7 +10,7 @@ namespace MakeMeUpzz.View
 {
     public partial class Login : System.Web.UI.Page
     {
-        protected void LoginBtn_Click(object sender, EventArgs e)
+        protected void ButtonLogin_Click(object sender, EventArgs e)
         {
             Database1Entities db = new Database1Entities();
 
@@ -27,16 +27,16 @@ namespace MakeMeUpzz.View
                 return;
             }
 
-            if (isRememberMe)
-            {
-                HttpCookie cookie = new HttpCookie("user_cookie");
-                cookie.Value = user.Username;
-                cookie.Expires = DateTime.Now.AddHours(1);
-                Response.Cookies.Add(cookie);
-            }
+            //if (isRememberMe)
+            //{
+            //    HttpCookie cookie = new HttpCookie("user_cookie");
+            //    cookie.Value = user.Username;
+            //    cookie.Expires = DateTime.Now.AddHours(1);
+            //    Response.Cookies.Add(cookie);
+            //}
 
-            Session["user"] = user;
-            Session["password"] = password;
+            //Session["user"] = user;
+            //Session["password"] = password;
 
             Response.Redirect("~/View/Homepage.aspx");
         }
@@ -45,5 +45,6 @@ namespace MakeMeUpzz.View
         {
             Response.Redirect("~/View/RegisterPage.aspx");
         }
+
     }
 }

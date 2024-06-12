@@ -6,7 +6,7 @@ using System.Web;
 
 namespace MakeMeUpzz.Factory
 {
-    public class User_Factory
+    public class UserFactory
     {   
         public static User CreateUser (int id, String username, String email, String gender, String password, DateTime DOB)
         {
@@ -15,6 +15,7 @@ namespace MakeMeUpzz.Factory
                 UserID = id,
                 Username = username,
                 UserEmail = email,
+                UserGender = gender,
                 UserPassword = password,
                 UserDOB = DOB
             };

@@ -49,7 +49,7 @@
         <asp:Button ID="ButtonRegister" runat="server" Text="Register" OnClick="ButtonRegister_Click" />
     </div>
     <div>
-         <asp:HyperLink ID="HyperLink1" runat="server">Already Have an Account?</asp:HyperLink>
+         <asp:HyperLink ID="HyperLink1" NavigateUrl="~/View/LoginPage.aspx"  runat="server">Already Have an Account?</asp:HyperLink>
     </div>
     </form>
 </body>

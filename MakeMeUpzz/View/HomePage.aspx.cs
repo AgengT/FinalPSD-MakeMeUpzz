@@ -1,4 +1,5 @@
-﻿using MakeMeUpzz.Model;
+﻿using MakeMeUpzz.Controller;
+using MakeMeUpzz.Model;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,32 +9,35 @@ using System.Web.UI.WebControls;
 
 namespace MakeMeUpzz.View
 {
-    public partial class Homepage1 : System.Web.UI.Page
+    public partial class Homepage : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if (Session["user"] == null && Request.Cookies["user_cookie"] == null)
-            {
-                Response.Redirect("~/View/LoginPage.aspx");
-            }
+            User.DataSource = UserController.GetAllUser();
+            User.DataBind();
 
-            if (Request.Cookies["user_cookie"] != null)
-            {
-                Database1Entities db = new Database1Entities();
-                var userId = Request.Cookies["user_cookie"].Value;
-                User user = db.Users.Where(U => U.Username == userId).FirstOrDefault();
+            //if (Session["user"] == null && Request.Cookies["user_cookie"] == null)
+            //{
+            //    Response.Redirect("~/View/LoginPage.aspx");
+            //}
+
+            //if (Request.Cookies["user_cookie"] != null)
+            //{
+            //    Database1Entities db = new Database1Entities();
+            //    var userId = Request.Cookies["user_cookie"].Value;
+            //    User user = db.Users.Where(U => U.Username == userId).FirstOrDefault();
 
 
-                if (user == null)
-                {
-                    Response.Redirect("~/View/LoginPage.aspx");
-                }
+            //    if (user == null)
+            //    {
+            //        Response.Redirect("~/View/LoginPage.aspx");
+            //    }
 
-                Session["user"] = user;
-            }
+            //    Session["user"] = user;
+            //}
 
-            User currUser = (User)Session["user"];
-            
+            //User currUser = (User)Session["user"];
         }
+
     }
 }

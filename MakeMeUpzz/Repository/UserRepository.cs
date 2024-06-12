@@ -2,6 +2,7 @@
 using MakeMeUpzz.Model;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity.Validation;
 using System.Linq;
 using System.Web;
 
@@ -9,16 +10,34 @@ namespace MakeMeUpzz.Repository
 {
     public class UserRepository
     {   
-
-        public static User newUser(int id, String username, String email, String gender, String password, DateTime DOB)
+        private static Database1Entities db = SingletonDatabase.GetInstance();
+        public static void newUser(User user)
         {
-            Database1Entities db1 = new Database1Entities();
-            User createUser=User_Factory.CreateUser(id, username, email, gender, password, DOB);
-            return createUser;
+            db.Users.Add(user);
+            try
+            {
+                db.SaveChanges();
+
+            }
+            catch (DbEntityValidationException e)
+            {
+                Console.WriteLine(e);
+            }
+
+            
         }
 
-        //public List<User> GetUsers(){}
+        public static List<User> GetAllUser()
+        {
+            return db.Users.ToList();
+        }
 
+        
+
+        public static User GetLastMakeup()
+        {
+            return db.Users.ToList().LastOrDefault();
+        }
 
     }
 }

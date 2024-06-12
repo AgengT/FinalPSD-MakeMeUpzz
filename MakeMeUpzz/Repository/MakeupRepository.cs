@@ -47,6 +47,16 @@ namespace MakeMeUpzz.Repository
         {
             return db.Makeups.ToList().LastOrDefault();
         }
+
+        public static List<Makeup> GetForMakeupTypeID(int typeID)
+        {
+            return db.Makeups.Where(a => a.MakeupTypeID == typeID).ToList();
+        }
+
+        public static List<Makeup> GetForMakeupBrandID(int typeID)
+        {
+            return db.Makeups.Where(a => a.MakeupBrandID == typeID).ToList();
+        }
     }
 
 }
