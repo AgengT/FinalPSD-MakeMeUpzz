@@ -90,7 +90,11 @@
       <LastGenOutput>Model1.cs</LastGenOutput>
     </Content>
     <Content Include="View\Homepage.aspx" />
+    <Content Include="View\InsertMakeupBrandPage.aspx" />
+    <Content Include="View\InsertMakeupPage.aspx" />
+    <Content Include="View\InsertMakeupTypePage.aspx" />
     <Content Include="View\LoginPage.aspx" />
+    <Content Include="View\ManageMakeupPage.aspx" />
     <Content Include="View\RegisterPage.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -144,12 +148,40 @@
     <Compile Include="View\Homepage.aspx.designer.cs">
       <DependentUpon>Homepage.aspx</DependentUpon>
     </Compile>
+    <Compile Include="View\InsertMakeupBrandPage.aspx.cs">
+      <DependentUpon>InsertMakeupBrandPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\InsertMakeupBrandPage.aspx.designer.cs">
+      <DependentUpon>InsertMakeupBrandPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\InsertMakeupPage.aspx.cs">
+      <DependentUpon>InsertMakeupPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\InsertMakeupPage.aspx.designer.cs">
+      <DependentUpon>InsertMakeupPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\InsertMakeupTypePage.aspx.cs">
+      <DependentUpon>InsertMakeupTypePage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\InsertMakeupTypePage.aspx.designer.cs">
+      <DependentUpon>InsertMakeupTypePage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="View\LoginPage.aspx.cs">
       <DependentUpon>LoginPage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="View\LoginPage.aspx.designer.cs">
       <DependentUpon>LoginPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="View\ManageMakeupPage.aspx.cs">
+      <DependentUpon>ManageMakeupPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="View\ManageMakeupPage.aspx.designer.cs">
+      <DependentUpon>ManageMakeupPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="View\Navbar.Master.cs">
       <DependentUpon>Navbar.Master</DependentUpon>
