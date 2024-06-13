@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MakeMeUpzz.Controller;
+using MakeMeUpzz.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,7 +13,7 @@ namespace MakeMeUpzz.View
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
+           
         }
         protected void ManageMakeup_Click(object sender, EventArgs e)
         {

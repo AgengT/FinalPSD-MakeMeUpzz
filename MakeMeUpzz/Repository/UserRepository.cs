@@ -14,14 +14,7 @@ namespace MakeMeUpzz.Repository
         public static void newUser(User user)
         {
             db.Users.Add(user);
-            
-            
             db.SaveChanges();
-
-            
-            
-
-            
         }
 
         public static List<User> GetAllUser()

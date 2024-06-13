@@ -3,195 +3,36 @@
   "WorkspaceRootPath": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\handletransactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\handletransactionpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\factory\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B__KULIAH_SMT4_PSD_LAB_FINALPSD_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeupbrandpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeupbrandpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\makeuprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\handler\\makeuphandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\factory\\makeupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\factory\\makeupfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\controller\\makeuptypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\controller\\makeuptypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeuptypepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeuptypepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeuptypepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeuptypepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\makeuptyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\makeuptyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\handler\\makeupbrandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\handler\\makeupbrandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\controller\\makeupbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\controller\\makeupbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\handler\\makeuptypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\handler\\makeuptypehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\factory\\makeupbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\factory\\makeupbrandfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\homepage.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\homepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\updatemakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\managemakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\managemakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\historypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\historypage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\handletransactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\handletransactionpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\historypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\historypage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\viewtransactionreportpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\viewtransactionreportpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeuptypepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\updatemakeuptypepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\updatemakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeupbrandpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\updatemakeupbrandpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\viewtransactionreportpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\viewtransactionreportpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeuptypepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\updatemakeuptypepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\updatemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\ordermakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\ordermakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\updatemakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\navbar.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\ordermakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\ordermakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\makeupbrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\makeupbrandrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -201,24 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RegisterPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\RegisterPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\RegisterPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:21:40.913Z",
-              "EditorCaption": ""
+              "DocumentIndex": 6,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Model\\Model1.edmx",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Model\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MakeMeUpzz\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-13T03:53:29.482Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "LoginPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\LoginPage.aspx",
@@ -231,69 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegisterPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\RegisterPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\RegisterPage.aspx.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAowCAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:26:05.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserFactory.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\UserFactory.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Factory\\UserFactory.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\UserFactory.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Factory\\UserFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:47:30.196Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\UserRepository.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs*",
-              "RelativeToolTip": "MakeMeUpzz\\Repository\\UserRepository.cs*",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAMAAAA",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:18:21.167Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Homepage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Homepage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\Homepage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T15:06:52.299Z",
+              "WhenOpened": "2024-06-12T15:18:21.167Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HandleTransactionPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HandleTransactionPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\HandleTransactionPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HandleTransactionPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\HandleTransactionPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:40:53.966Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "ManageMakeupPage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ManageMakeupPage.aspx",
@@ -306,424 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserHandler.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\UserHandler.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\UserHandler.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\UserHandler.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Handler\\UserHandler.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAswBYAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:21:57.375Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InsertMakeupBrandPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:35:33.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "dbo.Users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B__KULIAH_SMT4_PSD_LAB_FINALPSD_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-12T16:37:56.823Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MakeupRepository.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupRepository.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\MakeupRepository.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupRepository.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Repository\\MakeupRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwB4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:06:51.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MakeupHandler.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupHandler.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\MakeupHandler.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupHandler.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Handler\\MakeupHandler.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBkAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:39:47.524Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\LoginPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\LoginPage.aspx.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAwAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:26:33.518Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MakeupFactory.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupFactory.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Factory\\MakeupFactory.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupFactory.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Factory\\MakeupFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:46:40.501Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\UserController.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Controller\\UserController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAQwD8AAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:20:44.536Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MakeupTypeController.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupTypeController.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\MakeupTypeController.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupTypeController.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Controller\\MakeupTypeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:10:18.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "InsertMakeupTypePage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupTypePage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupTypePage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupTypePage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupTypePage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:29:58.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "InsertMakeupTypePage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupTypePage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupTypePage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupTypePage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupTypePage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:34:42.924Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MakeupController.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupController.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\MakeupController.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupController.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Controller\\MakeupController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:38:52.318Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "InsertMakeupBrandPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupBrandPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T13:37:13.647Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MakeupTypeRepository.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupTypeRepository.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\MakeupTypeRepository.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupTypeRepository.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Repository\\MakeupTypeRepository.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:44:00.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "MakeupBrandHandler.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupBrandHandler.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\MakeupBrandHandler.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupBrandHandler.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Handler\\MakeupBrandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:39:40.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MakeupBrandController.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupBrandController.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\MakeupBrandController.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupBrandController.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Controller\\MakeupBrandController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:38:42.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MakeupTypeHandler.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupTypeHandler.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\MakeupTypeHandler.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\MakeupTypeHandler.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Handler\\MakeupTypeHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:43:40.064Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MakeupBrandFactory.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupBrandFactory.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Factory\\MakeupBrandFactory.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Factory\\MakeupBrandFactory.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Factory\\MakeupBrandFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:44:57.101Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Homepage.aspx.designer.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx.designer.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Homepage.aspx.designer.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx.designer.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\Homepage.aspx.designer.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAArwCAAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:41:31.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateMakeupBrandPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T13:59:54.974Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Homepage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Homepage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Homepage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\Homepage.aspx.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCYAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:07:05.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ManageMakeupPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ManageMakeupPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\ManageMakeupPage.aspx.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAQwA8AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T18:47:12.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "HistoryPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HistoryPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\HistoryPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HistoryPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\HistoryPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:40:21.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "InsertMakeupPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T13:37:09.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "HistoryPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HistoryPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\HistoryPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HistoryPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\HistoryPage.aspx.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAADwvzUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:02:47.395Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "HandleTransactionPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HandleTransactionPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\HandleTransactionPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\HandleTransactionPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\HandleTransactionPage.aspx.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAADwvzUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:02:52.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "ViewTransactionReportPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ViewTransactionReportPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ViewTransactionReportPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ViewTransactionReportPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\ViewTransactionReportPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:41:12.871Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "InsertMakeupPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAhwEcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:53:53.938Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "UpdateMakeupTypePage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAWwBoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:15:11.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "UpdateMakeupPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\UpdateMakeupPage.aspx.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAWwCIAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:17:13.112Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "UpdateMakeupBrandPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAWwB8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:03:38.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "ViewTransactionReportPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ViewTransactionReportPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ViewTransactionReportPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ViewTransactionReportPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\ViewTransactionReportPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:56:05.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "UpdateMakeupTypePage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\UpdateMakeupTypePage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:33:49.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "UpdateMakeupPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\UpdateMakeupPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:34:01.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ProfilePage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAADwvzUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:54:36.636Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 0,
               "Title": "ProfilePage.aspx",
               "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx",
@@ -731,55 +105,47 @@
               "RelativeToolTip": "MakeMeUpzz\\View\\ProfilePage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:40:32.417Z"
+              "WhenOpened": "2024-06-12T14:40:32.417Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "OrderMakeupPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\OrderMakeupPage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\OrderMakeupPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\OrderMakeupPage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\OrderMakeupPage.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "DocumentIndex": 1,
+              "Title": "ProfilePage.aspx.cs",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
+              "RelativeToolTip": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:53:21.854Z"
+              "WhenOpened": "2024-06-12T14:54:36.636Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "Navbar.Master.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Navbar.Master.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Navbar.Master.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Navbar.Master.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\Navbar.Master.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwA4AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:35:59.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "OrderMakeupPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\OrderMakeupPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\OrderMakeupPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\OrderMakeupPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\OrderMakeupPage.aspx",
+              "DocumentIndex": 2,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\RegisterPage.aspx",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\View\\RegisterPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:39:39.636Z"
+              "WhenOpened": "2024-06-12T14:21:40.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "MakeupBrandRepository.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupBrandRepository.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\MakeupBrandRepository.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\MakeupBrandRepository.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Repository\\MakeupBrandRepository.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAjwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T13:47:01.889Z"
+              "DocumentIndex": 3,
+              "Title": "UpdateMakeupBrandPage.aspx",
+              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-12T13:59:54.974Z",
+              "EditorCaption": ""
             }
           ]
         }
