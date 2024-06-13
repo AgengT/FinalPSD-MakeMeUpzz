@@ -54,6 +54,28 @@ namespace MakeMeUpzz.Controller
 
         public static void UpdateMakeup(int id, string name, int price, int weight, int typeID, int brandID)
         {
+            string errors = "";
+
+            if (string.IsNullOrEmpty(name) || name.Length < 1 || name.Length > 99)
+            {
+                errors += "name|Username Input is not valid must be between 1 and 99 characters ,";
+            }
+            if (price <= 1)
+            {
+                errors += "price|Price must be more than 1 ,";
+            }
+            if(weight > 1500)
+            {
+                errors += "Weight cannot be greater than 1500 grams";
+            }
+            if (typeID.Equals(null))
+            {
+                errors += "typeID|Input invalid ,";
+            }
+            if (brandID.Equals(null))
+            {
+                errors += "brandID|Input invalid ,";
+            }
             MakeupHandler.UpdateMakeup(id, name, price, weight, typeID, brandID);
         }
     }

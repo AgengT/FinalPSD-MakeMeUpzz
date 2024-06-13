@@ -18,11 +18,31 @@ namespace MakeMeUpzz.Controller
         }
         public static void InsertMakeupBrand(string name, int rating)
         {
+            string errors = "";
+            if(string.IsNullOrEmpty(name) || name.Length < 1 || name.Length > 99)
+            {
+                errors += "name Input is not valid must be between 1 and 99 characters";
+            }
+            if(rating < 1 || rating > 100)
+            {
+                errors += "rating must be between 0-100";
+            }
+
             MakeupBrandHandler.InsertMakeupBrand(name, rating);
         }
 
         public static void UpdateMakeupBrand(int id, string name, int rating)
         {
+            string errors = "";
+            if (string.IsNullOrEmpty(name) || name.Length < 1 || name.Length > 99)
+            {
+                errors += "name Input is not valid must be between 1 and 99 characters";
+            }
+            if (rating < 1 || rating > 100)
+            {
+                errors += "rating must be between 0-100";
+            }
+
             MakeupBrandHandler.UpdateMakeupBrand(id, name, rating);
         }
 

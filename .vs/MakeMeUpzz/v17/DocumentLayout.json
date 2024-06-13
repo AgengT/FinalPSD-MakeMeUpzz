@@ -1,64 +1,68 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\",
+  "WorkspaceRootPath": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\view\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|d:\\binus\\semester 4\\psd\\projek\\finalpsd-makemeupzz\\makemeupzz\\view\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|d:\\binus\\semester 4\\psd\\projek\\finalpsd-makemeupzz\\makemeupzz\\view\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\view\\insertmakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\controller\\makeupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\handler\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\managemakeuppage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B__KULIAH_SMT4_PSD_LAB_FINALPSD_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|b:\\kuliah\\smt4\\psd\\lab\\finalpsd-makemeupzz\\makemeupzz\\view\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\profilepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\profilepage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\updatemakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\updatemakeupbrandpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\makemeupzz\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\model\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
@@ -69,80 +73,88 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ManageMakeupPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ManageMakeupPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\ManageMakeupPage.aspx",
+              "DocumentIndex": 0,
+              "Title": "Navbar.Master",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Navbar.Master",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\Navbar.Master",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\Navbar.Master",
+              "RelativeToolTip": "MakeMeUpzz\\View\\Navbar.Master",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T03:29:22.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\UserController.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Controller\\UserController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAjwCEAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:15:35.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserHandler.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\UserHandler.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\UserHandler.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\UserHandler.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Handler\\UserHandler.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:37:49.774Z",
+              "WhenOpened": "2024-06-13T17:30:50.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ManageMakeupPage.aspx",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ManageMakeupPage.aspx",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ManageMakeupPage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\View\\ManageMakeupPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-12T03:29:22.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\UserController.cs",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\UserController.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Controller\\UserController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:15:35.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\UserHandler.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Handler\\UserHandler.cs",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Handler\\UserHandler.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Handler\\UserHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T05:37:49.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "RegisterPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx.cs",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\RegisterPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx.cs",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx.cs",
               "RelativeToolTip": "MakeMeUpzz\\View\\RegisterPage.aspx.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T05:17:21.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T05:17:21.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MakeupController.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupController.cs",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupController.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\Controller\\MakeupController.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupController.cs",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Controller\\MakeupController.cs",
               "RelativeToolTip": "MakeMeUpzz\\Controller\\MakeupController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAmwCsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:58:08.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T06:58:08.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "InsertMakeupPage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
               "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -151,116 +163,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "InsertMakeupPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\InsertMakeupPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\InsertMakeupPage.aspx",
               "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-13T06:52:59.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProfilePage.aspx.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
-              "RelativeToolTip": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA8AAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T14:54:36.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProfilePage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\ProfilePage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:40:32.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T06:52:59.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\UserRepository.cs",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
-              "RelativeToolTip": "MakeMeUpzz\\Repository\\UserRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCAAAAAJAAAA",
+              "Title": "ProfilePage.aspx.cs",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx.cs",
+              "RelativeToolTip": "MakeMeUpzz\\View\\ProfilePage.aspx.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwA8AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:18:21.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T14:54:36.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RegisterPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\RegisterPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\RegisterPage.aspx",
+              "DocumentIndex": 11,
+              "Title": "ProfilePage.aspx",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\ProfilePage.aspx",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\ProfilePage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\View\\ProfilePage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:21:40.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "dbo.Users [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B__KULIAH_SMT4_PSD_LAB_FINALPSD_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql",
-              "ToolTip": "dbo.Users [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-13T05:30:33.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\LoginPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx",
-              "RelativeToolTip": "MakeMeUpzz\\View\\LoginPage.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T14:25:59.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Model\\Model1.edmx",
-              "RelativeDocumentMoniker": "MakeMeUpzz\\Model\\Model1.edmx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Model\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "MakeMeUpzz\\Model\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-06-13T03:53:29.482Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2024-06-12T14:40:32.417Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "MakeMeUpzz\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:18:21.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\RegisterPage.aspx",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\RegisterPage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\View\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-12T14:21:40.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/B__KULIAH_SMT4_PSD_LAB_FINALPSD_MAKEMEUPZZ_MAKEMEUPZZ_APP_DATA_DATABASE1.MDF/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T05:30:33.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\View\\LoginPage.aspx",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\LoginPage.aspx",
+              "RelativeToolTip": "MakeMeUpzz\\View\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-12T14:25:59.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Model\\Model1.edmx",
+              "RelativeDocumentMoniker": "MakeMeUpzz\\Model\\Model1.edmx",
+              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\Model\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-13T03:53:29.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "UpdateMakeupBrandPage.aspx",
-              "DocumentMoniker": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
+              "DocumentMoniker": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
               "RelativeDocumentMoniker": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
-              "ToolTip": "B:\\Kuliah\\Smt4\\PSD\\Lab\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
+              "ToolTip": "D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
               "RelativeToolTip": "MakeMeUpzz\\View\\UpdateMakeupBrandPage.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-06-12T13:59:54.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T13:59:54.974Z"
             }
           ]
         }

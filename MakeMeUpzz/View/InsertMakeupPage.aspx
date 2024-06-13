@@ -42,13 +42,13 @@
             </div>
             <div>
                 <asp:Label ID="LabelTypeID" runat="server" Text="MakeupTypeID"></asp:Label>
-                <asp:TextBox ID="MakeupTypeID" runat="server" required></asp:TextBox>
+                <asp:TextBox ID="MakeupTypeID" runat="server" required=""></asp:TextBox>
                  <asp:Label ID="LabelErrorTypeID" runat="server" Text=" "></asp:Label>
 
             </div>
             <div>
                 <asp:Label ID="LabelBrandID" runat="server" Text="MakeupBrandID"></asp:Label>
-                <asp:TextBox ID="MakeupBrandID" runat="server" required></asp:TextBox>
+                <asp:TextBox ID="MakeupBrandID" runat="server" required=""></asp:TextBox>
                  <asp:Label ID="LabelErrorBrandID" runat="server" Text=" "></asp:Label>
             </div>
             <asp:Label ID="LabelError" runat="server" Text=""></asp:Label>

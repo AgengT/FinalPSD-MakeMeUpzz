@@ -10,20 +10,23 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div ID="Customer-Navbar">
-            <asp:Button ID="Button1" runat="server" Text="Order Makeup" OnClick="OrderMakeupClick" />
-            <asp:Button ID="Button2" runat="server" Text="History" OnClick="HistoryClick" />
-            <asp:Button ID="Button3" runat="server" Text="Profile" OnClick="ProfileClick" />
-            <asp:Button ID="Button4" runat="server" Text="Logout" OnClick="LogoutClick" />
+        <div id="Customer-Navbar">
+            <asp:Button ID="OrderMakupBtn" runat="server" Text="Order Makeup" OnClick="OrderMakupBtn_Click" />
+            <asp:Button ID="HistoryBtn" runat="server" Text="History" OnClick="HistoryBtn_Click" />
+            <asp:Button ID="ProfileBtn" runat="server" Text="Profile" OnClick="ProfileBtn_Click" />
+            <asp:Button ID="LogoutBtn" runat="server" Text="Logout" OnClick="LogoutBtn_Click" />
         </div>
 
-         <div ID="Admin-Navbar">
-            <asp:Button ID="Button5" runat="server" Text="Manage Makeup" OnClick="ManageMakeupClick" />
-            <asp:Button ID="Button6" runat="server" Text="Order Queue" OnClick="OrderQueueClick" />
-            <asp:Button ID="Button7" runat="server" Text="Profile" OnClick="ProfileClick" />
-            <asp:Button ID="Button8" runat="server" Text="Transaction Report" OnClick="TransactionReportClick" />
-            <asp:Button ID="Button9" runat="server" Text="Logout" OnClick="LogoutClick" />
-         </div>
+        <div id="Admin-Navbar">
+            <asp:Button ID="ManageMakeupBtn" runat="server" Text="Manage Makeup" OnClick="ManageMakeupBtn_Click" />
+            <asp:Button ID="OrderQueueBtn" runat="server" Text="Order Queue" OnClick="OrderQueueBtn_Click" />
+            <asp:Button ID="ProfileBtnAdmin" runat="server" Text="Profile" OnClick="ProfileBtnAdmin_Click" />
+            <asp:Button ID="TransactionReportBtn" runat="server" Text="Transaction Report" OnClick="TransactionReportBtn_Click" />
+            <asp:Button ID="LogoutBtnAdmin" runat="server" Text="Logout" OnClick="LogoutBtnAdmin_Click" />
+        </div>
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
     </form>
 </body>
 </html>

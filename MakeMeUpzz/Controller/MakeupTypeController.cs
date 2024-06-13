@@ -19,11 +19,23 @@ namespace MakeMeUpzz.Controller
         }
         public static void InsertMakeupType(string name)
         {
+            string errors = "";
+            if(string.IsNullOrEmpty(name) || name.Length < 1 || name.Length > 99)
+            {
+                errors += "name is not valid must be between 1 and 99 characters";
+            }
+
             MakeupTypeHandler.InsertMakeupType(name);
         }
 
         public static void UpdateMakeupType(int id, string name)
         {
+            string errors = "";
+            if (string.IsNullOrEmpty(name) || name.Length < 1 || name.Length > 99)
+            {
+                errors += "name is not valid must be between 1 and 99 characters";
+            }
+
             MakeupTypeHandler.UpdateMakeupType(id, name);
         }
 

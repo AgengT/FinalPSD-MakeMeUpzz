@@ -1,0 +1,19 @@
+﻿using MakeMeUpzz.Controller;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.UI;
+using System.Web.UI.WebControls;
+
+namespace MakeMeUpzz.View
+{
+    public partial class TransactionHistoryPage : System.Web.UI.Page
+    {
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            GridView1.DataSource = MakeupController.GetAllMakeups();
+            GridView1.DataBind();
+        }
+    }
+}
