@@ -29,5 +29,9 @@ namespace MakeMeUpzz.Repository
             return db.Users.ToList().LastOrDefault();
         }
 
+        public static User GetUserByUsername(string username)
+        {
+            return db.Users.Where(x => x.Username == username).FirstOrDefault();
+        }
     }
 }

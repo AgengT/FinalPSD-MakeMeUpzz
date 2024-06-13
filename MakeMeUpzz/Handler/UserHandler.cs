@@ -32,5 +32,11 @@ namespace MakeMeUpzz.Handler
             }
             return user.UserID + 1;
         }
+
+        public static bool CheckUsername(string username)
+        {
+            User user = UserRepository.GetUserByUsername(username);
+            return user != null;
+        }
     }
 }

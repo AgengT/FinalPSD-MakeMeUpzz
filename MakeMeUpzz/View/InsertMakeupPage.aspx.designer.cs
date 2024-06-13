@@ -123,6 +123,15 @@ namespace MakeMeUpzz.View
         protected global::System.Web.UI.WebControls.TextBox MakeupName;
 
         /// <summary>
+        /// LabelErrorName control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelErrorName;
+
+        /// <summary>
         /// LabelPrice control.
         /// </summary>
         /// <remarks>
@@ -139,6 +148,15 @@ namespace MakeMeUpzz.View
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox MakeupPrice;
+
+        /// <summary>
+        /// LabelErrorPrice control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelErrorPrice;
 
         /// <summary>
         /// LabelWeight control.
@@ -159,6 +177,15 @@ namespace MakeMeUpzz.View
         protected global::System.Web.UI.WebControls.TextBox MakeupWeight;
 
         /// <summary>
+        /// LabelErrorWeight control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelErrorWeight;
+
+        /// <summary>
         /// LabelTypeID control.
         /// </summary>
         /// <remarks>
@@ -177,6 +204,15 @@ namespace MakeMeUpzz.View
         protected global::System.Web.UI.WebControls.TextBox MakeupTypeID;
 
         /// <summary>
+        /// LabelErrorTypeID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelErrorTypeID;
+
+        /// <summary>
         /// LabelBrandID control.
         /// </summary>
         /// <remarks>
@@ -193,6 +229,24 @@ namespace MakeMeUpzz.View
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.TextBox MakeupBrandID;
+
+        /// <summary>
+        /// LabelErrorBrandID control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelErrorBrandID;
+
+        /// <summary>
+        /// LabelError control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelError;
 
         /// <summary>
         /// InsertMakeup control.

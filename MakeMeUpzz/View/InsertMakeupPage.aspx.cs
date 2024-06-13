@@ -1,6 +1,7 @@
 ﻿using MakeMeUpzz.Controller;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -12,7 +13,12 @@ namespace MakeMeUpzz.View
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            LabelErrorName.Text = "";
+            LabelErrorPrice.Text = "";
+            LabelErrorWeight.Text = "";
+            LabelErrorTypeID.Text = "";
+            LabelErrorBrandID.Text = "";
+            LabelError.Text = "";
         }
 
         protected void ManageMakeup_Click(object sender, EventArgs e)
@@ -22,14 +28,54 @@ namespace MakeMeUpzz.View
 
         protected void InsertMakeup_Click(object sender, EventArgs e)
         {
-            string name = MakeupName.Text;
-            int price = Convert.ToInt32(MakeupPrice.Text);
-            int weight = Convert.ToInt32(MakeupWeight.Text);
-            int typeId = Convert.ToInt32(MakeupTypeID.Text);
-            int brandId = Convert.ToInt32(MakeupBrandID.Text);
 
-            MakeupController.InsertMakeup(name, price, weight, typeId, brandId);
-            Response.Redirect("~/View/ManageMakeupPage.aspx");
+            try
+            {
+                string name = MakeupName.Text;
+                int price = Convert.ToInt32(MakeupPrice.Text);
+                int weight = Convert.ToInt32(MakeupWeight.Text);
+                int typeId = Convert.ToInt32(MakeupTypeID.Text);
+                int brandId = Convert.ToInt32(MakeupBrandID.Text);
+
+                MakeupController.InsertMakeup(name, price, weight, typeId, brandId);
+                Response.Redirect("~/View/ManageMakeupPage.aspx");
+            }
+            catch (ArgumentException ex)
+            {
+                List<string> errors = ex.Message.Split(',').ToList();
+
+                foreach (string error in errors)
+                {
+                    string msg = error.Substring(error.IndexOf("|") + 1);
+                    string code = error.Substring(0, error.IndexOf("|"));
+                    switch (code)
+                    {
+                        case "name":
+                            LabelErrorName.Text += msg;
+                            break;
+                        case "price":
+                            LabelErrorPrice.Text += msg;
+                            break;
+                        case "weight":
+                            LabelErrorWeight.Text += msg;
+                            break;
+                        case "typeID":
+                            LabelErrorTypeID.Text += msg;
+                            break;
+                        case "brandID":
+                            LabelErrorBrandID.Text += msg;
+                            break;
+                    }
+                }
+            }
+            catch (FormatException ex)
+            {
+                LabelError.Text = ex.Message;
+            }
+            catch (DbUpdateException ex)
+            {
+                LabelError.Text = ex.InnerException.Message;
+            }
         }
 
         protected void ManageMakeup_Click3(object sender, EventArgs e)

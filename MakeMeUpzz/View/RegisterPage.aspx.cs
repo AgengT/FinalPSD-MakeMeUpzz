@@ -16,12 +16,15 @@ namespace MakeMeUpzz.View
         Database1Entities db = SingletonDatabase.GetInstance();
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            LabelErrorConfirmPassword.Text = "";
+            LabelErrorEmail.Text = "";
+            LabelErrorUsername.Text = "";
+            LabelErrorGender.Text = "";
+            LabelErrorDOB.Text = "";
         }
 
         protected void ButtonRegister_Click(object sender, EventArgs e)
         {
-            
             string username = TextBoxUsername.Text;
             string email = TextBoxEmail.Text;
             string gender = RadioButtonGender.SelectedValue;
@@ -29,44 +32,41 @@ namespace MakeMeUpzz.View
             string confirmPassword = TextBoxConfirmPassword.Text;
             DateTime DOB = CalendarRegisterDOB.SelectedDate;
 
-            UserController.Register(username, email, gender, password, DOB);
+            try
+            {
+                UserController.Register(username, email, gender, password, confirmPassword, DOB);
+                Response.Redirect("~/View/Homepage.aspx");
+            }
+            catch (ArgumentException ex)
+            {
+                List<string> errors = ex.Message.Split(',').ToList();
 
-            //validasi yang dibuat calvin
-            //try
-            //{
-            //    User user = UserController.Register(username, email, gender, password, confirmPassword, DOB);
-            //}
-            //catch (Exception ex)
-            //{
-            //    List<string> errors = ex.Message.Split(',').ToList();
+                foreach (string error in errors)
+                {
+                    string msg = error.Substring(error.IndexOf("|") + 1);
+                    string code = error.Substring(0, error.IndexOf("|"));
+                    switch (code)
+                    {
+                        case "confirm":
+                            LabelErrorConfirmPassword.Text += msg;
+                            break;
+                        case "email":
+                            LabelErrorEmail.Text += msg;
+                            break;
+                        case "username":
+                            LabelErrorUsername.Text += msg;
+                            break;
+                        case "gender":
+                            LabelErrorGender.Text += msg;
+                            break;
+                        case "DOB":
+                            LabelErrorDOB.Text += msg;
+                            break;
 
-            //    foreach (string error in errors)
-            //    {
-            //        string msg = error.Substring(error.IndexOf("|") + 1);
-            //        string code = error.Substring(0, error.IndexOf("|"));
-            //        switch (code)
-            //        {
-            //            case "confirm":
-            //                LabelErrorConfirmPassword.Text += msg;
-            //                break;
-            //            case "email":
-            //                LabelErrorEmail.Text = msg;
-            //                break;
-            //            case "username":
-            //                LabelErrorUsername.Text = msg;
-            //                break;
-            //            case "gender":
-            //                LabelErrorGender.Text = msg;
-            //                break;
-            //            case "DOB":
-            //                LabelErrorDOB.Text = msg;
-            //                break;
-                           
-            //        }
-            //    }
+                    }
+                }
 
-            //}
-            Response.Redirect("~/View/Homepage.aspx");
+            }
         }
     }
 }
