@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Navbar.master.cs" Inherits="MakeMeUpzz.View.Navbar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+
+            <%if ((MakeMeUpzz.Model.User)Session["user"] != null)
+     {
+
+
+
+            %>
+            <%if (((MakeMeUpzz.Model.User)Session["user"]).UserRole == "Admin")
+     {
+
+            %>
+            <div id="Admin-Navbar">
+                <asp:LinkButton ID="ManageMakeupAdminBtn" runat="server" PostBackUrl="~/View/ManageMakeupPage.aspx">Manage Makeup</asp:LinkButton>
+                <asp:LinkButton ID="OrderQueueAdminBtn" runat="server" PostBackUrl="~/View/TransactionHistoryPage.aspx">Order Queue</asp:LinkButton>
+                <asp:LinkButton ID="ProfileAdminBtn" runat="server" PostBackUrl="~/View/ProfilePage.aspx">Profile</asp:LinkButton>
+                <asp:LinkButton ID="TransactionReportAdminBtn" runat="server" PostBackUrl="~/View/ViewTransactionReportPage.aspx">Transaction Report</asp:LinkButton>
+                <asp:LinkButton ID="LogoutAdminBtn" runat="server" PostBackUrl="~/View/Logout.aspx">Logout</asp:LinkButton>
+
+            </div>
+            <%}
+     else if (((MakeMeUpzz.Model.User)Session["user"]).UserRole == "Customer")
+     { %>
+            <div id="Customer-Navbar">
+                <asp:LinkButton ID="OrderMakeupCustomerBtn" runat="server" PostBackUrl="~/View/OrderMakeupPage.aspx">Manage Makeup</asp:LinkButton>
+                <asp:LinkButton ID="HistoryCustomerBtn" runat="server" PostBackUrl="~/View/HistoryPage.aspx">Order Queue</asp:LinkButton>
+                <asp:LinkButton ID="ProfileCustomerBtn" runat="server" PostBackUrl="~/View/ProfilePage.aspx">Profile</asp:LinkButton>
+                <asp:LinkButton ID="LogoutCustomerBtn" runat="server" PostBackUrl="~/View/Logout.aspx">Transaction Report</asp:LinkButton>
+            </div>
+            <%}
+     }%>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
