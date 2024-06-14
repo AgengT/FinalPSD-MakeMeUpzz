@@ -39,7 +39,7 @@ namespace MakeMeUpzz.View
 
             User currUser = (User)Session["user"];
 
-            if (currUser.UserRole == "admin")
+            if (currUser.UserRole == "Admin")
             {
                 Button5.Visible = true;
                 Button6.Visible = true;

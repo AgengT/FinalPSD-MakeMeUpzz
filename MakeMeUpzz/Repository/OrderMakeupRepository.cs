@@ -19,5 +19,26 @@ namespace MakeMeUpzz.Repository
         {
             return db.Carts.ToList().LastOrDefault();
         }
+        public static List<Cart> GetCartsByUserID(int userID)
+        {
+            return db.Carts.Where(x => x.UserID == userID).ToList();
+        }
+        public static void saveTransactionHeader(TransactionHeader transactionHeader)
+        {
+            db.TransactionHeaders.Add(transactionHeader);
+            db.SaveChanges();
+        }
+
+        public static void saveTransactionDetail(TransactionDetail transactionDetail)
+        {
+            db.TransactionDetails.Add(transactionDetail);
+            db.SaveChanges();
+        }
+
+        public static void removeCart(Cart cart)
+        {
+            db.Carts.Remove(cart);
+            db.SaveChanges();
+        }
     }
 }

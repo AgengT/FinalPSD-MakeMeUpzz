@@ -18,4 +18,5 @@
         </Columns>
 
     </asp:GridView>
+    <asp:Button ID="CheckOutBtn" runat="server" Text="Check Out" OnClick="CheckOutBtn_Click" />
 </asp:Content>

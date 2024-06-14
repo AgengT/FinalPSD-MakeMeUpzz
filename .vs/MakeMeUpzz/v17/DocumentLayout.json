@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\navbar.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|d:\\binus\\semester 4\\psd\\projek\\finalpsd-makemeupzz\\makemeupzz\\view\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|D:\\BINUS\\Semester 4\\PSD\\Projek\\FinalPSD-MakeMeUpzz\\makemeupzz\\view\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCADDA94-18DE-4F76-95F8-CEFA8A1071A6}|MakeMeUpzz\\MakeMeUpzz.csproj|solutionrelative:makemeupzz\\view\\insertmakeuppage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -158,8 +158,7 @@
               "RelativeToolTip": "MakeMeUpzz\\View\\InsertMakeupPage.aspx.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T06:51:56.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T06:51:56.042Z"
             },
             {
               "$type": "Document",

@@ -33,85 +33,85 @@ namespace MakeMeUpzz.View
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// OrderMakupBtn control.
+        /// ManageMakeupAdminBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button OrderMakupBtn;
+        protected global::System.Web.UI.WebControls.LinkButton ManageMakeupAdminBtn;
 
         /// <summary>
-        /// HistoryBtn control.
+        /// OrderQueueAdminBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button HistoryBtn;
+        protected global::System.Web.UI.WebControls.LinkButton OrderQueueAdminBtn;
 
         /// <summary>
-        /// ProfileBtn control.
+        /// ProfileAdminBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ProfileBtn;
+        protected global::System.Web.UI.WebControls.LinkButton ProfileAdminBtn;
 
         /// <summary>
-        /// LogoutBtn control.
+        /// TransactionReportAdminBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button LogoutBtn;
+        protected global::System.Web.UI.WebControls.LinkButton TransactionReportAdminBtn;
 
         /// <summary>
-        /// ManageMakeupBtn control.
+        /// LogoutAdminBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ManageMakeupBtn;
+        protected global::System.Web.UI.WebControls.LinkButton LogoutAdminBtn;
 
         /// <summary>
-        /// OrderQueueBtn control.
+        /// OrderMakeupCustomerBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button OrderQueueBtn;
+        protected global::System.Web.UI.WebControls.LinkButton OrderMakeupCustomerBtn;
 
         /// <summary>
-        /// ProfileBtnAdmin control.
+        /// HistoryCustomerBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button ProfileBtnAdmin;
+        protected global::System.Web.UI.WebControls.LinkButton HistoryCustomerBtn;
 
         /// <summary>
-        /// TransactionReportBtn control.
+        /// ProfileCustomerBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button TransactionReportBtn;
+        protected global::System.Web.UI.WebControls.LinkButton ProfileCustomerBtn;
 
         /// <summary>
-        /// LogoutBtnAdmin control.
+        /// LogoutCustomerBtn control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button LogoutBtnAdmin;
+        protected global::System.Web.UI.WebControls.LinkButton LogoutCustomerBtn;
 
         /// <summary>
         /// ContentPlaceHolder1 control.

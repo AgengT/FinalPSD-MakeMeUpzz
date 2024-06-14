@@ -14,5 +14,10 @@ namespace MakeMeUpzz.Handler
         {
             return TransactionDetailRepository.GetAllTransactionDetail();
         }
+
+        public static List<TransactionDetail> GetTransactionDetail(int transactionID)
+        {
+            return TransactionDetailRepository.GetTransactionDetail(transactionID);
+        }
     }
 }

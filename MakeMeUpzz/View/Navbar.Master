@@ -10,23 +10,41 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div id="Customer-Navbar">
-            <asp:Button ID="OrderMakupBtn" runat="server" Text="Order Makeup" OnClick="OrderMakupBtn_Click" />
-            <asp:Button ID="HistoryBtn" runat="server" Text="History" OnClick="HistoryBtn_Click" />
-            <asp:Button ID="ProfileBtn" runat="server" Text="Profile" OnClick="ProfileBtn_Click" />
-            <asp:Button ID="LogoutBtn" runat="server" Text="Logout" OnClick="LogoutBtn_Click" />
-        </div>
+        <div>
 
-        <div id="Admin-Navbar">
-            <asp:Button ID="ManageMakeupBtn" runat="server" Text="Manage Makeup" OnClick="ManageMakeupBtn_Click" />
-            <asp:Button ID="OrderQueueBtn" runat="server" Text="Order Queue" OnClick="OrderQueueBtn_Click" />
-            <asp:Button ID="ProfileBtnAdmin" runat="server" Text="Profile" OnClick="ProfileBtnAdmin_Click" />
-            <asp:Button ID="TransactionReportBtn" runat="server" Text="Transaction Report" OnClick="TransactionReportBtn_Click" />
-            <asp:Button ID="LogoutBtnAdmin" runat="server" Text="Logout" OnClick="LogoutBtnAdmin_Click" />
-        </div>
+            <%if ((MakeMeUpzz.Model.User)Session["user"] != null)
+     {
 
-        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
-        </asp:ContentPlaceHolder>
+
+
+            %>
+            <%if (((MakeMeUpzz.Model.User)Session["user"]).UserRole == "Admin")
+     {
+
+            %>
+            <div id="Admin-Navbar">
+                <asp:LinkButton ID="ManageMakeupAdminBtn" runat="server" PostBackUrl="~/View/ManageMakeupPage.aspx">Manage Makeup</asp:LinkButton>
+                <asp:LinkButton ID="OrderQueueAdminBtn" runat="server" PostBackUrl="~/View/TransactionHistoryPage.aspx">Order Queue</asp:LinkButton>
+                <asp:LinkButton ID="ProfileAdminBtn" runat="server" PostBackUrl="~/View/ProfilePage.aspx">Profile</asp:LinkButton>
+                <asp:LinkButton ID="TransactionReportAdminBtn" runat="server" PostBackUrl="~/View/ViewTransactionReportPage.aspx">Transaction Report</asp:LinkButton>
+                <asp:LinkButton ID="LogoutAdminBtn" runat="server" PostBackUrl="~/View/Logout.aspx">Logout</asp:LinkButton>
+
+            </div>
+            <%}
+     else if (((MakeMeUpzz.Model.User)Session["user"]).UserRole == "Customer")
+     { %>
+            <div id="Customer-Navbar">
+                <asp:LinkButton ID="OrderMakeupCustomerBtn" runat="server" PostBackUrl="~/View/OrderMakeupPage.aspx">Manage Makeup</asp:LinkButton>
+                <asp:LinkButton ID="HistoryCustomerBtn" runat="server" PostBackUrl="~/View/HistoryPage.aspx">Order Queue</asp:LinkButton>
+                <asp:LinkButton ID="ProfileCustomerBtn" runat="server" PostBackUrl="~/View/ProfilePage.aspx">Profile</asp:LinkButton>
+                <asp:LinkButton ID="LogoutCustomerBtn" runat="server" PostBackUrl="~/View/Logout.aspx">Transaction Report</asp:LinkButton>
+            </div>
+            <%}
+     }%>
+
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
     </form>
 </body>
 </html>
